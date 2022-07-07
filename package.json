@@ -18,7 +18,7 @@
     "expo-image-picker": "~8.0.1",
     "expo-permissions": "~8.0.0",
     "firebase": "7.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "2.13.8",
     "not": "^0.1.0",
     "or": "^0.2.0",
